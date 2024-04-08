@@ -1,5 +1,7 @@
 package com.tatek.authorityimplementation.controllers;
 
+import com.tatek.authorityimplementation.entities.AccountTransactions;
+import com.tatek.authorityimplementation.repositories.AccountTransactionsRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;

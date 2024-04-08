@@ -1,4 +1,4 @@
-# Authority Implementation spring Boot 3.2.4
+# Authority Based Authorization in Spring Boot 3.2.4
 1, Create Authority table in DB (This application is configured to use Postgres DB)
         
     CREATE TABLE authorities (

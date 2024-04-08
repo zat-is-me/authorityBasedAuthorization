@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class AuthorityimplementationApplication {
+public class AuthorityImplementationApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(AuthorityimplementationApplication.class, args);
+		SpringApplication.run(AuthorityImplementationApplication.class, args);
 	}
 
 }
